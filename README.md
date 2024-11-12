@@ -34,4 +34,21 @@
 
 ## Educatori
 
-- Diario delle presenze 
+All'avvio dell'app visualizza la lista delle sue classi; entrando in una classe visualizza:
+
+- Registro delle presenza
+  - Accando al nome del bambino due pulsantini per accedere al suo **diario** o la sua **anagrafica**
+  - Il nome viene visualizzato con differenti colori a seconda dello stato di presenza; sotto camparirà un eventuale messaggio inserito dal genitore
+
+- Bacheca
+- Colloqui
+
+
+
+## Appunti nostri
+- Aggiungere ruolo segreteria (????)
+
+- Utilizzo di una sidebar
+    - Partendo da SX le classi
+    
+
